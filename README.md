@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and hacking, even though I don't really know much.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on AI creation in python for now.
-- 📫 How to reach me @ asumingand@gmail.com
+- 📫 How to reach @ I'm invisible 
 
 <!---
 Dosty-cyber/Dosty-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
